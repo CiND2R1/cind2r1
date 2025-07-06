@@ -20,9 +20,9 @@
 
 | 💻 Project / Activity | 🔗 Link |
 |-----------------------|--------|
-| Ai Scanner            | [🔒 GitHub Repo](https://github.com/CiND2R1/AI-Scanner-MRCX-OsVersion)  | Simple network scanner written in Python using socket & threading |
-| TryHackMe Progress    | [👨‍💻 View Profile](https://tryhackme.com/p/cind2r1) | My hands-on learning progress on TryHackMe platform |
-| InfoStealer Script    | [🐍 Repo](https://github.com/CiND2R1/InfoStealer-Educational-Simulation/) | Educational script for understanding how infostealers work (safe use only) |
+| Ai Scanner                         | [🔒 GitHub Repo](https://github.com/CiND2R1/AI-Scanner-MRCX-OsVersion)  | Simple network scanner written in Python using socket & threading |
+| TryHackMe Progress                 | [👨‍💻 View Profile](https://tryhackme.com/p/cind2r1) | My hands-on learning progress on TryHackMe platform |
+| InfoStealer Educational Simulation | [🐍 Repo](https://github.com/CiND2R1/InfoStealer-Educational-Simulation/) | Educational script for understanding how infostealers work (safe use only) |
 
 ---
 
